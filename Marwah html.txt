@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Simple Notepad</title>
+</head>
+<body>
+<textarea rows="20" cols="80"></textarea>
+</body>
+</html>
